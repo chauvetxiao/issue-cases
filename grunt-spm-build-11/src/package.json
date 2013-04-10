@@ -1,0 +1,12 @@
+{
+  "family": "spm",
+  "name": "test",
+  "version": "1.0.0",
+  "spm": {
+    "alias": {
+        "box": "box/1.0.0/box.js",
+        "stat": "stat/1.0.0/stat.js"        
+    },
+    "output": ["logic.js"]
+  }
+}
